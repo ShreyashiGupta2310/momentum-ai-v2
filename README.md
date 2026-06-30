@@ -13,7 +13,7 @@ An AI-powered execution workspace that transforms high-level goals into structur
   <img src="Images/progress.png" width="900">
 </p>
 <p align="center">
-  <img src="Images/Settings.png" width="900">
+  <img src="Images/settings.png" width="900">
 </p>
 ---
 
