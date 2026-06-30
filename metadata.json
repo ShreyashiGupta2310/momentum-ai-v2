@@ -1,0 +1,6 @@
+{
+  "name": "Momentum AI",
+  "description": "An advanced AI-powered productivity dashboard featuring task automation, deadline risk analysis, customized focus planning, and intelligent suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
