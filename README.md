@@ -2,20 +2,7 @@
 
 An AI-powered execution workspace that transforms high-level goals into structured execution plans, helping users focus on doing instead of planning.
 
-<p align="center">
-  <img src="Images/Dashboard.png" width="900">
-</p>
-<p align="center">
-  <img src="Images/Workspace.png" width="900">
-</p>
 
-<p align="center">
-  <img src="Images/progress.png" width="900">
-</p>
-<p align="center">
-  <img src="Images/settings.png" width="900">
-</p>
----
 
 ## Problem
 
@@ -71,7 +58,7 @@ AI
 
 ---
 
-## 🌐 Google Technologies Used
+##  Google Technologies Used
 
 - Google AI Studio
 - Gemini API
@@ -79,7 +66,7 @@ AI
 
 ---
 
-## 🚀 Run Locally
+##  Run Locally
 
 ```bash
 npm install
@@ -99,19 +86,35 @@ npm run dev
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 Dashboard
 
-(Add Screenshot)
+<p align="center">
+  <img src="Images/Dashboard.png" width="900">
+</p>
 
 Workspace
 
-(Add Screenshot)
+<p align="center">
+  <img src="Images/Workspace.png" width="900">
+</p>
 
+Progress
+<p align="center">
+  <img src="Images/progress.png" width="900">
+</p>
+
+
+Settings
+
+<p align="center">
+  <img src="Images/settings.png" width="900">
+</p>
 ---
 
-## 🔮 Future Improvements
+
+## Future Improvements
 
 - Google Calendar Integration
 - Gmail Integration
